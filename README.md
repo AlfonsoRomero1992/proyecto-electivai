@@ -1,7 +1,7 @@
 # Proyecto Electiva de profundizacion 1 - Creacion de APIS
+## Integrantes
 
-## Integrante 
-* Nombres Apellido [@AlfonsoRomero1992](https://github.com/AlfonsoRomero1992)
+* Alfonso Romero Amaya [@AlfonsoRomero1992](https://github.com/AlfonsoRomero1992)
 
 ## print # 1
 
