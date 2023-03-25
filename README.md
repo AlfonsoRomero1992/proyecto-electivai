@@ -7,8 +7,33 @@
 
 ## Historias de usuario 
 
+## . Feature: Registro de Usuario
+
+## . Scenario: Registro de usuario en la plataforma con correo
+##   nuevo (Nunca antes registrado)
+
+## . Given: El usuario ha de hacer clic en el boton "Nuevo usuario" e 
+##   introduce de forma correcta un nombre de usuario, nombre y apellido,
+##   correo electronico y contraseña
+
+##  . when: El usuario clica sobre el boton de "registrar"
+
+##  . then: El usuario puede registrarse de forma correcta e iniciar sesion
+##    con el usuario y contraseña que ha definido.
+
 
 ## Historias de tecnicas 
+
+  ## Creacion de BD
+## En postgresql, crear base de datos para el almacenamiento
+## persistente de la aplicacion 
+
+  ## subtareas
+## . instalacion de postgresql
+## . creacion de la base de datos
+## . configuracion de la conexion a la
+##  base de datos desde el framework 
+
 
 
 
