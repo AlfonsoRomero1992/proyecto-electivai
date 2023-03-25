@@ -1,4 +1,24 @@
-<p align="center">
+# Proyecto Electiva de profundizacion 1 - Creacion de APIS
+
+## Integrante 
+* Nombres Apellido [@AlfonsoRomero1992](https://github.com/AlfonsoRomero1992)
+
+## print # 1
+
+## Historias de usuario 
+
+
+## Historias de tecnicas 
+
+
+
+
+
+
+
+<p align="center
+          
+          
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
